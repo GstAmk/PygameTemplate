@@ -22,7 +22,7 @@ Structure de donnée
 
 
 	
-Hackathon
+
 	└── main.py
 		 │
 	 	 └── assets       
