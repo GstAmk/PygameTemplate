@@ -17,12 +17,12 @@ Répartitions des tâches (actuelles) :
 
 
 
-HackathonG20   
+Structure de donnée  
 
 
 
-
- 
+	
+Hackathon
 	└── main.py
 		 │
 	 	 └── assets       
