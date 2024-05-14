@@ -13,10 +13,11 @@ Répartitions des tâches (actuelles) :
 - GUSTIN Aimerik : GitHub, liens pratiques, ressources audios, ...
 
 
+
 HackathonG20      
 └── main.py
-
-	│││││└── assets       
+	 │
+ 	 └── assets       
             ├── img
 	    │	  ├── maps
 	    │	  │
