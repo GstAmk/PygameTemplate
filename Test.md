@@ -17,12 +17,12 @@ Répartitions des tâches (actuelles) :
 
 
 
-Structure de donnée  
+Structure de données :   
 
 
-
-	
-
+     |
+     |	
+ Hackathon
 	└── main.py
 		 │
 	 	 └── assets       
