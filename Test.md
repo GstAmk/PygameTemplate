@@ -14,26 +14,27 @@ Répartitions des tâches (actuelles) :
 
 
 
-HackathonG20      
-└── main.py
-	 │
 
 
- 	 └── assets       
-            ├── img
-	    │	  ├── maps
-	    │	  │
-	    │	  │
- 	    │	  │
-	    │	  └── personnages
-	    │
-	    │
-  	    │
-	    └── sounds
-		 ├── combat 
+
+HackathonG20    
+	└── main.py
 		 │
-		 │
-		 ├── menus 
-		 │
-		 │
-		 └── interraction
+	 	 └── assets       
+	            ├── img
+		    │	  ├── maps
+		    │	  │
+		    │	  │
+	 	    │	  │
+		    │	  └── personnages
+		    │
+		    │
+	  	    │
+		    └── sounds
+			 ├── combat 
+			 │
+			 │
+			 ├── menus 
+			 │
+			 │
+			 └── interraction
