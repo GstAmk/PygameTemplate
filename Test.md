@@ -1,4 +1,4 @@
-Contexte du jeu : 
+[ArborescenceFichier.txt](https://github.com/GstAmk/TemplatePygame/files/15314323/ArborescenceFichier.txt)Contexte du jeu : 
 
 Situé dans le village de PéteinCity, notre jeu de type RPG se jouera dans le rôle du jeune étudiant à l'Académie des Ninjas nommé Greg.
 Jeune et courageux, Greg n'hésitera pas à courir au secours de la princesse Vandeville lors d'une altercation avec les 2 renommés ninjas renégats "Depreter le Maléfique" et "Desmet le Malicieux".
@@ -12,28 +12,4 @@ Répartitions des tâches (actuelles) :
 - MESSINA Massimo : Organisation interface menus du jeu, idées déplacements 2D, ...
 - GUSTIN Aimerik : GitHub, liens pratiques, ressources audios, ...
 
-HackathonG20      
-└── main.py     
-    │    
-    │         
-    │         
-    │        
-    │       
-    └── assets       
-            ├── img
-	    │	  ├── maps
-	    │	  │
-	    │	  │
- 	    │	  │
-	    │	  └── personnages
-	    │
-	    │
-  	    │
-	    └── sounds
-		 ├── combat 
-		 │
-		 │
-		 ├── menus 
-		 │
-		 │
-		 └── interraction
+[ArborescenceFichier.txt](https://github.com/GstAmk/TemplatePygame/files/15314324/ArborescenceFichier.txt)
