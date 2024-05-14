@@ -17,7 +17,12 @@ Répartitions des tâches (actuelles) :
 
 
 
-HackathonG20    
+HackathonG20   
+
+
+
+
+ 
 	└── main.py
 		 │
 	 	 └── assets       
