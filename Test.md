@@ -14,13 +14,7 @@ Répartitions des tâches (actuelles) :
 
 
 HackathonG20      
-└── main.py     
-    │    
-    │         
-    │         
-    │        
-    │       
-    └── assets       
+└── main.py│││││└── assets       
             ├── img
 	    │	  ├── maps
 	    │	  │
